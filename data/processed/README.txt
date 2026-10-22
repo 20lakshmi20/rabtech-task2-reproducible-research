@@ -1,0 +1,1 @@
+Analysis-ready data is generated here when the pipeline runs.

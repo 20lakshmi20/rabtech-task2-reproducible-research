@@ -1,0 +1,12 @@
+Study Time and Final Mathematics Grade — Analysis Report
+NOTE: Results are observational associations, not proof of causation.
+
+Rows in analysis dataset: 395
+Higher study-time group (categories 3–4): n=92, mean=11.359, SD=4.807, median=12.000, IQR=9.750–15.000
+Lower study-time group (categories 1–2): n=303, mean=10.129, SD=4.480, median=10.000, IQR=8.000–13.000
+Mean difference (higher minus lower): 1.230
+Welch two-sided t-test p-value: 0.0306694
+Cohen's d: 0.270
+Non-zero G3 sensitivity: higher n=83, lower n=274, mean difference=1.390, p=0.000612046
+
+Interpretation guide: compare the observed p-value with the preregistered 0.05 threshold. Report group summaries and effect size regardless of significance. Do not claim causation.

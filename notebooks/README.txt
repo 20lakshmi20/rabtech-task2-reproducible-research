@@ -1,0 +1,1 @@
+Use the notebook outline included with this starter kit, or create an IPython notebook documenting the research question, data loading, cleaning, descriptive statistics, test, effect size, sensitivity analysis, and limitations.
